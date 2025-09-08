@@ -76,7 +76,7 @@ struct ContentView: View {
                 
                 Button("Show message")
                 {
-                    let messages = ["You Are Awesome!",
+                    let messages = ["You Are SUPER Awesome!",
                                     "You Are Great!",
                                     "You Are The Goat",
                                     "Fabulous? That's You!",
