@@ -78,7 +78,7 @@ struct ContentView: View {
                 {
                     let messages = ["You Are SUPER Awesome!",
                                     "You Are Great!",
-                                    "You Are The Goat",
+                                    "You Are The Goat!",
                                     "Fabulous? That's You!",
                                     "You Are The Coolest Person EVER!"]
                     
